@@ -1,0 +1,22 @@
+{
+  "name": "itpm-assignment-1-it23213180",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAPKPerera/ITPM-Assignment-1-it23213180.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAPKPerera/ITPM-Assignment-1-it23213180/issues"
+  },
+  "homepage": "https://github.com/PAPKPerera/ITPM-Assignment-1-it23213180#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
